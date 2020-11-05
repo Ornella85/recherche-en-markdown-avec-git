@@ -29,7 +29,10 @@
   Il est critiqué pour être difficile à maitriser, surtout pour les débutants. 
 
   #### Exemple  
-    bloc de code, images...   
+    Git init 
+    Git add . 
+    git commit -m " "
+    git push
 
 - - -
 
